@@ -8,5 +8,5 @@ public class OrdemServico
     public string Descricao { get; set; }
     public decimal ValorTotal { get; set; }
     public DateTime DataCadastro { get; set; }
-    public String Status { get; set; }
+    public string Status { get; set; }
 }
