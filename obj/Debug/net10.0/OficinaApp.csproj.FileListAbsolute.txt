@@ -1,0 +1,14 @@
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\bin\Debug\net10.0\OficinaApp.exe
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\bin\Debug\net10.0\OficinaApp.deps.json
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\bin\Debug\net10.0\OficinaApp.runtimeconfig.json
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\bin\Debug\net10.0\OficinaApp.dll
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\bin\Debug\net10.0\OficinaApp.pdb
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\obj\Debug\net10.0\OficinaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\obj\Debug\net10.0\OficinaApp.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\obj\Debug\net10.0\OficinaApp.AssemblyInfo.cs
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\obj\Debug\net10.0\OficinaApp.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\obj\Debug\net10.0\OficinaApp.dll
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\obj\Debug\net10.0\refint\OficinaApp.dll
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\obj\Debug\net10.0\OficinaApp.pdb
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\obj\Debug\net10.0\OficinaApp.genruntimeconfig.cache
+C:\Users\henri\Desktop\C# Mastering\OficinaApp\obj\Debug\net10.0\ref\OficinaApp.dll
